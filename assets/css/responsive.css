@@ -1,0 +1,60 @@
+@media (min-width: 768px) and (max-width: 991px) {
+    .zoomIn{
+        display: contents;
+    }
+    .navigation {
+        background: rgba(0, 0, 0, 0.9);
+    }
+
+    .navigation .navbar-brand {
+        float: none;
+    }
+
+    #navbarResponsive {
+        text-align: left;
+        margin: 20px 0;
+    }
+
+    .menu li .btn-home {
+        margin: 10px 0 !important;
+    }
+
+    .ftco-section {
+        padding: 6em 0;
+    }
+
+    .heading-section h2 {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .navigation {
+        background: rgba(0, 0, 0, 0.9);
+    }
+
+    .navigation .navbar-brand {
+        float: none;
+    }
+
+    #navbarResponsive {
+        text-align: left;
+        margin: 20px 0;
+    }
+
+    .menu li .btn-home {
+        margin: 10px 0 !important;
+    }
+
+    .ftco-section {
+        padding: 6em 0;
+    }
+
+    .heading-section h2 {
+        font-size: 28px;
+    }
+
+    .hero-area{
+        height: 130vh;
+    }
+}

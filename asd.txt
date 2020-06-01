@@ -1,0 +1,46 @@
+Alan adýnýz: thegettinout.com
+Kullanýcý adýnýz: thegetti
+Þifreniz: Wpha9p3jdEpYZz1wLHVr
+Hizmetinizin baþlama tarihi: 20 Aralýk 2019
+Ödeme periyodunuz: 12 Aylýk
+Bir sonraki ödeme tarihi: 20 Aralýk 2020
+
+NOT: Bu kullanýcý adýný ve þifreyi kontrol panelinize ve ftp'ye giriþ yaparken kullanabilirsiniz.
+-----------------------------------------------------------------------------------------
+DNS ve sunucu ip bilgileri:
+ns92.kebirhost.com
+89.163.138.77
+ns93.kebirhost.com
+89.163.138.77
+----------------------------------------------------------------------------------------
+FTP bilgileri (Ftp programý için):
+ftp.thegettinout.com
+89.163.138.77
+
+FTP bilgileri:
+ftp://thegetti@thegettinout.com/
+
+Not: Ftp'ye "Bilgisayarým" klasöründeki adres satýrýna yukarýdaki adresi yazarak baðlanabilirsiniz. Ýnternet gezginlerinden bu þekilde giriþ gerçekleþmeyecektir.
+----------------------------------------------------------------------------------------
+Kontrol paneli bilgileri (DA):
+http://www.thegettinout.com/config
+http://www.thegettinout.com:2222
+http://89.163.138.77:2222
+----------------------------------------------------------------------------------------
+Web tabanlý mail bilgileri:
+http://www.thegettinout.com/webmail/
+http://89.163.138.77/webmail/
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+thegetti 			Wpha9p3jdEpYZz1wLHVr
+alperyavuz23@hotmail.com	L0RoYnBS
+thegettinout@gmail.com		30042020GO!
+info@thegettinout.com		30042020GO!
+
+Veritabaný:	thegetti_GetTi
+Sunucu:	localhost
+Kullanýcý Adý:	thegetti_rooter
+Parola:	Wpha9p3jdEpYZz1wLHVr

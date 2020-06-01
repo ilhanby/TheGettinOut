@@ -1,0 +1,15 @@
+<?php include "$_SERVER[DOCUMENT_ROOT]/partials/_header.php" ?>
+<div class="main-panel">
+    <div class="content-wrapper">
+
+        <div class="page-header">
+            <h3 class="page-title">
+                <span class="page-title-icon bg-gradient-primary text-white mr-2">
+                  <i class="mdi mdi-table-large"></i>
+                </span> Yorumlar </h3>
+        </div>
+
+
+        <?php include "$_SERVER[DOCUMENT_ROOT]/partials/_footer.php" ?>
+    </div>
+</div>
